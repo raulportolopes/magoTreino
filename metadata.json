@@ -1,0 +1,8 @@
+{
+  "name": "Mago Treino Sub18 2026",
+  "description": "Uma plataforma completa para gestão e planejamento de treinos de futsal para a categoria sub-18, com foco em preparação física, tática e técnica.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
